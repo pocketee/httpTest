@@ -38,7 +38,7 @@ public class Main {
                             builder.append(item + ": " + iterElem.next().text() + "   \t");
                         }
                         System.out.println(builder.toString());
-                    }
+                    }//
 
                     return res;
                 }
